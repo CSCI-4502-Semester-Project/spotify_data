@@ -1,0 +1,90 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "profile only (verbose) (pretty)",
+            "type": "python",
+            "request": "launch",
+            "program": "dump_user_data.py",
+            "args": [
+                "lazyllama321",
+                "--profile",
+                "--verbose",
+                "--pretty"
+            ],
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "profile only (verbose) (binary)",
+            "type": "python",
+            "request": "launch",
+            "program": "dump_user_data.py",
+            "args": [
+                "lazyllama321",
+                "--profile",
+                "--verbose",
+                "--binary"
+            ],
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "playlists only (verbose) (pretty)",
+            "type": "python",
+            "request": "launch",
+            "program": "dump_user_data.py",
+            "args": [
+                "lazyllama321",
+                "--playlists",
+                "--verbose",
+                "--pretty"
+            ],
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "playlists only (verbose)",
+            "type": "python",
+            "request": "launch",
+            "program": "dump_user_data.py",
+            "args": [
+                "lazyllama321",
+                "--playlists",
+                "--verbose"
+            ],
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "playlists only (verbose) (binary)",
+            "type": "python",
+            "request": "launch",
+            "program": "dump_user_data.py",
+            "args": [
+                "lazyllama321",
+                "--playlists",
+                "--verbose",
+                "--binary"
+            ],
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "playlists, features (verbose) (binary)",
+            "type": "python",
+            "request": "launch",
+            "program": "dump_user_data.py",
+            "args": [
+                "lazyllama321",
+                "--playlists",
+                "--features",
+                "--verbose",
+                "--binary"
+            ],
+            "console": "integratedTerminal"
+        }
+    ]
+}
