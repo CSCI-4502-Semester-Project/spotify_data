@@ -21,7 +21,8 @@ def get_args():
     parser.add_argument('redirect_uri', help='Redirect URI used for Spotify Authentication. /callback/ by default.', type=str, nargs='?', default='/callback/')
     parser.add_argument('port', help='Port for redirect URI. 8888 by default', type=int, nargs='?', default='8888')
     parser.add_argument('--profile', help='Get user\'s profile data.', action='store_true')
-    parser.add_argument('--playlists', help='Get list of users playlists.', action='store_true')
+    parser.add_argument('--playlists', help='Get list of user\'s playlists.', action='store_true')
+    parser.add_argument('--tracks', help='Get lists of tracks from user\'s playlists. Does not need to be used with --featues, --features already does this automatically.', action='store_true')
     parser.add_argument('--features', help='Get features for tracks in playlists. If no playlist data already on disk then --playlist flag required. Use --playlist flag to update playlist data.', action='store_true')
     # parser.add_argument('--analysis', help='Get detailed analysis for tracks in playlists, requires --playlists flag.', action='store_true')
     parser.add_argument('--verbose', help='Increase log output.', action='store_true')
@@ -38,6 +39,7 @@ def authorized_callback():
 
     playlists, playlist_track_ids = None, None
 
+    # Gets the public user profile data and writes it to `profile.json` or `profile.pbjson`
     if args.profile:
         profile = get_user_profile(args.user_id, auth, args.verbose)
 
@@ -62,6 +64,8 @@ def authorized_callback():
                 
                 out_file.close()
 
+    # Gets all of a users playlists and writes them to the `playlists.json` or `playlists.pbjson` file
+    # Does NOT get the tracks in the playlists
     if args.playlists:
         playlists = get_user_playlists(args.user_id, auth, args.verbose)
 
@@ -86,6 +90,44 @@ def authorized_callback():
                     out_file.write(json.dumps(playlists))
                 out_file.close()
 
+    # Create track indexes from the playlists
+    if args.tracks and not args.features:
+        # if not pulling new playlist data from spotify, load from disk
+        if not args.playlists:
+            playlists = None
+            try:
+                f = open(dump_directory + '{}/{}'.format(args.user_id, 'playlists.pbjson'), 'r')
+                playlists = pbjson.loads(f)
+            except:
+                try:
+                    f = open(dump_directory + '{}/{}'.format(args.user_id, 'playlists.json'), 'r')
+                    playlists = json.loads(f)
+                except:
+                    raise IOError('No playlist json data found. Need to get playlist data with --playlists flag for this user.')
+        
+        # create dict for track indexes
+        if playlist_track_ids is None:
+            playlist_track_ids = {}
+        
+        # get all track id's
+        for playlist in playlists['items']:
+            track_ids = track_indexes(playlist['tracks'], auth, args.verbose)
+            if track_ids is None:
+                continue
+
+            playlist_track_ids[playlist['id']] = track_ids
+
+            # dump track indexes
+            filename = '{}.INDEX'.format(playlist['id'])
+
+            # if we have playlist data then we know that directory exists
+            out_file = open('{}{}/{}'.format(dump_directory, args.user_id, filename), 'w+')
+            out_file.truncate(0)
+            out_file.write('%d\n' % len(track_ids))
+            out_file.write('\n'.join(track_ids))
+            out_file.close()
+
+    # Create track indexes from playlists and also get track features for all tracks in all playlists.
     if args.features:
         # if not pulling new playlist data from spotify, load from disk
         if not args.playlists:
