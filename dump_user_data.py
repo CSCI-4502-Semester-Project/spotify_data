@@ -4,6 +4,8 @@ import pbjson
 import os
 from flask import Flask, request
 import threading
+import time
+import signal
 
 from profile import get_user_profile
 from playlists import get_user_playlists
@@ -12,6 +14,9 @@ from track import track_indexes, track_features#, track_analysis
 
 app_server = Flask(__name__)
 args, auth = None, None # global variables, probably need to change
+server_thread = None
+
+auth_finished = threading.Event()
 
 def get_args():
     global args
@@ -187,16 +192,26 @@ def authorized_callback():
                         out_file.write(json.dumps(features))
                 out_file.close()
 
-    # if args.analysis:
-    #     pass
 
 def flask_thread():
     if args.server_url:
         app_server.run(host=args.server_url, port=args.port)
 
+def killer():
+    auth_finished.wait() # get the ok to kill the server
+    time.sleep(0.5) # wait a little bit for it to finish responding
+    os.kill(os.getpid(), signal.SIGTERM)
+
 if __name__ == '__main__':
     get_args() # parse args
-    threading.Thread(target=flask_thread).start() # start server for callback
+
+    # start thread to kill the server
+    killer_thread = threading.Thread(target=killer)
+    killer_thread.start()
+    
+    # start server for callback
+    server_thread = threading.Thread(target=flask_thread) 
+    server_thread.start()
 
     auth = SpotifyAuth('http://' + args.server_url + ':' + str(args.port) + args.redirect_uri)
     auth.authorize()
@@ -214,4 +229,5 @@ def auth_callback():
         return 'Authentication Failure :('
     auth.get_tokens(auth_code)
     authorized_callback()
+    auth_finished.set()
     return 'Done. Close tab.'
