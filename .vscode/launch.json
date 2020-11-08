@@ -85,6 +85,35 @@
                 "--binary"
             ],
             "console": "integratedTerminal"
+        },
+        {
+            "name": "playlists, tracks (verbose) (binary)",
+            "type": "python",
+            "request": "launch",
+            "program": "dump_user_data.py",
+            "args": [
+                "lazyllama321",
+                "--playlists",
+                "--tracks",
+                "--verbose",
+                "--binary"
+            ],
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "playlists, tracks, constraint size = 50 (verbose) (binary)",
+            "type": "python",
+            "request": "launch",
+            "program": "dump_user_data.py",
+            "args": [
+                "lazyllama321",
+                "-size=50",
+                "--playlists",
+                "--tracks",
+                "--verbose",
+                "--binary"
+            ],
+            "console": "integratedTerminal"
         }
     ]
 }

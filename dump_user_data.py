@@ -20,6 +20,7 @@ def get_args():
     parser.add_argument('server_url', help='URL for spotify authentication. `127.0.0.1` by default.', type=str, nargs='?', default='127.0.0.1')
     parser.add_argument('redirect_uri', help='Redirect URI used for Spotify Authentication. /callback/ by default.', type=str, nargs='?', default='/callback/')
     parser.add_argument('port', help='Port for redirect URI. 8888 by default', type=int, nargs='?', default='8888')
+    parser.add_argument('-size', help='Playlists size constraint, any playlists with size < constraint will not have indexes or tracks recorded, however they will still be recored in users playlists file. Default is 0.', type=int, default=0)
     parser.add_argument('--profile', help='Get user\'s profile data.', action='store_true')
     parser.add_argument('--playlists', help='Get list of user\'s playlists.', action='store_true')
     parser.add_argument('--tracks', help='Get lists of tracks from user\'s playlists. Does not need to be used with --featues, --features already does this automatically.', action='store_true')
@@ -112,7 +113,9 @@ def authorized_callback():
         # get all track id's
         for playlist in playlists['items']:
             track_ids = track_indexes(playlist['tracks'], auth, args.verbose)
-            if track_ids is None:
+
+            # make sure that we have tracks, also make sure that the playlist size conforms to the size constraint
+            if track_ids is None or len(track_ids) < args.size:
                 continue
 
             playlist_track_ids[playlist['id']] = track_ids
@@ -152,7 +155,9 @@ def authorized_callback():
         # get all track id's
         for playlist in playlists['items']:
             track_ids = track_indexes(playlist['tracks'], auth, args.verbose)
-            if track_ids is None:
+            
+            # make sure that we have tracks, also make sure that the playlist size conforms to the size constraint
+            if track_ids is None or len(track_ids) < args.size:
                 continue
 
             playlist_track_ids[playlist['id']] = track_ids
