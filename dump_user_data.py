@@ -200,7 +200,7 @@ def flask_thread():
 def killer():
     auth_finished.wait() # get the ok to kill the server
     time.sleep(0.5) # wait a little bit for it to finish responding
-    os.kill(os.getpid(), signal.SIGTERM)
+    os.kill(os.getpid(), signal.SIGTERM) # end the program
 
 if __name__ == '__main__':
     get_args() # parse args
@@ -208,7 +208,7 @@ if __name__ == '__main__':
     # start thread to kill the server
     killer_thread = threading.Thread(target=killer)
     killer_thread.start()
-    
+
     # start server for callback
     server_thread = threading.Thread(target=flask_thread) 
     server_thread.start()
