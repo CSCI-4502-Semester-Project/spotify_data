@@ -1,0 +1,20 @@
+{
+    "danceability": 0.207,
+    "energy": 0.102,
+    "key": 1,
+    "loudness": -17.365,
+    "mode": 1,
+    "speechiness": 0.0384,
+    "acousticness": 0.974,
+    "instrumentalness": 0.542,
+    "liveness": 0.104,
+    "valence": 0.303,
+    "tempo": 82.319,
+    "type": "audio_features",
+    "id": "19SN5mb0gs0ze9PYBIVANZ",
+    "uri": "spotify:track:19SN5mb0gs0ze9PYBIVANZ",
+    "track_href": "https://api.spotify.com/v1/tracks/19SN5mb0gs0ze9PYBIVANZ",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/19SN5mb0gs0ze9PYBIVANZ",
+    "duration_ms": 181200,
+    "time_signature": 4
+}

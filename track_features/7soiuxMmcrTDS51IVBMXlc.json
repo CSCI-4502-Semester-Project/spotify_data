@@ -1,0 +1,20 @@
+{
+    "danceability": 0.65,
+    "energy": 0.0263,
+    "key": 6,
+    "loudness": -35.61,
+    "mode": 0,
+    "speechiness": 0.0517,
+    "acousticness": 0.943,
+    "instrumentalness": 0.801,
+    "liveness": 0.155,
+    "valence": 0.758,
+    "tempo": 112.456,
+    "type": "audio_features",
+    "id": "7soiuxMmcrTDS51IVBMXlc",
+    "uri": "spotify:track:7soiuxMmcrTDS51IVBMXlc",
+    "track_href": "https://api.spotify.com/v1/tracks/7soiuxMmcrTDS51IVBMXlc",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/7soiuxMmcrTDS51IVBMXlc",
+    "duration_ms": 86982,
+    "time_signature": 4
+}

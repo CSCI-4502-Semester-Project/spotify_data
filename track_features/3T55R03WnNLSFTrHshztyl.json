@@ -1,0 +1,20 @@
+{
+    "danceability": 0.71,
+    "energy": 0.875,
+    "key": 1,
+    "loudness": -10.135,
+    "mode": 0,
+    "speechiness": 0.0376,
+    "acousticness": 0.0011,
+    "instrumentalness": 0.358,
+    "liveness": 0.205,
+    "valence": 0.357,
+    "tempo": 116.018,
+    "type": "audio_features",
+    "id": "3T55R03WnNLSFTrHshztyl",
+    "uri": "spotify:track:3T55R03WnNLSFTrHshztyl",
+    "track_href": "https://api.spotify.com/v1/tracks/3T55R03WnNLSFTrHshztyl",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/3T55R03WnNLSFTrHshztyl",
+    "duration_ms": 186465,
+    "time_signature": 4
+}

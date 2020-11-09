@@ -1,0 +1,20 @@
+{
+    "danceability": 0.429,
+    "energy": 0.0299,
+    "key": 5,
+    "loudness": -20.977,
+    "mode": 0,
+    "speechiness": 0.0531,
+    "acousticness": 0.995,
+    "instrumentalness": 0.14,
+    "liveness": 0.104,
+    "valence": 0.666,
+    "tempo": 81.881,
+    "type": "audio_features",
+    "id": "3NMtFLp7SAusoKo1UI62Xr",
+    "uri": "spotify:track:3NMtFLp7SAusoKo1UI62Xr",
+    "track_href": "https://api.spotify.com/v1/tracks/3NMtFLp7SAusoKo1UI62Xr",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/3NMtFLp7SAusoKo1UI62Xr",
+    "duration_ms": 288093,
+    "time_signature": 4
+}

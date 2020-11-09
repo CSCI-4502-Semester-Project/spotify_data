@@ -1,0 +1,20 @@
+{
+    "danceability": 0.82,
+    "energy": 0.47,
+    "key": 8,
+    "loudness": -7.181,
+    "mode": 1,
+    "speechiness": 0.0458,
+    "acousticness": 0.00435,
+    "instrumentalness": 0,
+    "liveness": 0.141,
+    "valence": 0.313,
+    "tempo": 132.003,
+    "type": "audio_features",
+    "id": "3SuzCeGoNOWmbWOoDMou0B",
+    "uri": "spotify:track:3SuzCeGoNOWmbWOoDMou0B",
+    "track_href": "https://api.spotify.com/v1/tracks/3SuzCeGoNOWmbWOoDMou0B",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/3SuzCeGoNOWmbWOoDMou0B",
+    "duration_ms": 280173,
+    "time_signature": 4
+}

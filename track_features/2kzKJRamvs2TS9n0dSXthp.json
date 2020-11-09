@@ -1,0 +1,20 @@
+{
+    "danceability": 0.397,
+    "energy": 0.434,
+    "key": 3,
+    "loudness": -8.649,
+    "mode": 1,
+    "speechiness": 0.142,
+    "acousticness": 0.111,
+    "instrumentalness": 1.87e-05,
+    "liveness": 0.215,
+    "valence": 0.699,
+    "tempo": 180.112,
+    "type": "audio_features",
+    "id": "2kzKJRamvs2TS9n0dSXthp",
+    "uri": "spotify:track:2kzKJRamvs2TS9n0dSXthp",
+    "track_href": "https://api.spotify.com/v1/tracks/2kzKJRamvs2TS9n0dSXthp",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/2kzKJRamvs2TS9n0dSXthp",
+    "duration_ms": 162789,
+    "time_signature": 3
+}

@@ -1,0 +1,20 @@
+{
+    "danceability": 0.794,
+    "energy": 0.718,
+    "key": 1,
+    "loudness": -6.895,
+    "mode": 1,
+    "speechiness": 0.264,
+    "acousticness": 0.666,
+    "instrumentalness": 1.36e-06,
+    "liveness": 0.396,
+    "valence": 0.397,
+    "tempo": 100.832,
+    "type": "audio_features",
+    "id": "5u22BZLZKp4uywckdtBrgo",
+    "uri": "spotify:track:5u22BZLZKp4uywckdtBrgo",
+    "track_href": "https://api.spotify.com/v1/tracks/5u22BZLZKp4uywckdtBrgo",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/5u22BZLZKp4uywckdtBrgo",
+    "duration_ms": 217120,
+    "time_signature": 4
+}

@@ -1,0 +1,20 @@
+{
+    "danceability": 0.13,
+    "energy": 0.015,
+    "key": 11,
+    "loudness": -18.508,
+    "mode": 0,
+    "speechiness": 0.459,
+    "acousticness": 0.517,
+    "instrumentalness": 0.925,
+    "liveness": 0.134,
+    "valence": 1e-05,
+    "tempo": 86.209,
+    "type": "audio_features",
+    "id": "1ocx24cg3X119MilyogyCd",
+    "uri": "spotify:track:1ocx24cg3X119MilyogyCd",
+    "track_href": "https://api.spotify.com/v1/tracks/1ocx24cg3X119MilyogyCd",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/1ocx24cg3X119MilyogyCd",
+    "duration_ms": 279998,
+    "time_signature": 4
+}

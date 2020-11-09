@@ -1,0 +1,20 @@
+{
+    "danceability": 0.64,
+    "energy": 0.00163,
+    "key": 1,
+    "loudness": -36.42,
+    "mode": 1,
+    "speechiness": 0.629,
+    "acousticness": 0.996,
+    "instrumentalness": 0.963,
+    "liveness": 0.103,
+    "valence": 0.414,
+    "tempo": 135.597,
+    "type": "audio_features",
+    "id": "3F3mEeyrEAxjEErk5inAma",
+    "uri": "spotify:track:3F3mEeyrEAxjEErk5inAma",
+    "track_href": "https://api.spotify.com/v1/tracks/3F3mEeyrEAxjEErk5inAma",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/3F3mEeyrEAxjEErk5inAma",
+    "duration_ms": 244133,
+    "time_signature": 5
+}

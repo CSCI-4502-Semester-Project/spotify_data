@@ -1,0 +1,20 @@
+{
+    "danceability": 0.475,
+    "energy": 0.626,
+    "key": 11,
+    "loudness": -8.696,
+    "mode": 0,
+    "speechiness": 0.0291,
+    "acousticness": 0.0266,
+    "instrumentalness": 0.000313,
+    "liveness": 0.194,
+    "valence": 0.793,
+    "tempo": 173.086,
+    "type": "audio_features",
+    "id": "5QOijyvdnZRstMYqrqdusk",
+    "uri": "spotify:track:5QOijyvdnZRstMYqrqdusk",
+    "track_href": "https://api.spotify.com/v1/tracks/5QOijyvdnZRstMYqrqdusk",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/5QOijyvdnZRstMYqrqdusk",
+    "duration_ms": 152761,
+    "time_signature": 4
+}

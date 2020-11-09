@@ -1,0 +1,20 @@
+{
+    "danceability": 0.688,
+    "energy": 0.92,
+    "key": 10,
+    "loudness": -1.69,
+    "mode": 0,
+    "speechiness": 0.0665,
+    "acousticness": 0.00326,
+    "instrumentalness": 0.916,
+    "liveness": 0.0976,
+    "valence": 0.156,
+    "tempo": 174.01,
+    "type": "audio_features",
+    "id": "4AMBlyhaU5acMw897sy6tf",
+    "uri": "spotify:track:4AMBlyhaU5acMw897sy6tf",
+    "track_href": "https://api.spotify.com/v1/tracks/4AMBlyhaU5acMw897sy6tf",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/4AMBlyhaU5acMw897sy6tf",
+    "duration_ms": 226207,
+    "time_signature": 4
+}

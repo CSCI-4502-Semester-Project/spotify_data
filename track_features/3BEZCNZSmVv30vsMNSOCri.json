@@ -1,0 +1,20 @@
+{
+    "danceability": 0.558,
+    "energy": 0.524,
+    "key": 2,
+    "loudness": -11.626,
+    "mode": 0,
+    "speechiness": 0.0459,
+    "acousticness": 0.321,
+    "instrumentalness": 0.000952,
+    "liveness": 0.94,
+    "valence": 0.636,
+    "tempo": 93.654,
+    "type": "audio_features",
+    "id": "3BEZCNZSmVv30vsMNSOCri",
+    "uri": "spotify:track:3BEZCNZSmVv30vsMNSOCri",
+    "track_href": "https://api.spotify.com/v1/tracks/3BEZCNZSmVv30vsMNSOCri",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/3BEZCNZSmVv30vsMNSOCri",
+    "duration_ms": 289027,
+    "time_signature": 4
+}

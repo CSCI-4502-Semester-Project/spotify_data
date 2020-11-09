@@ -1,0 +1,20 @@
+{
+    "danceability": 0.59,
+    "energy": 0.52,
+    "key": 1,
+    "loudness": -12.024,
+    "mode": 1,
+    "speechiness": 0.0518,
+    "acousticness": 0.424,
+    "instrumentalness": 0.00216,
+    "liveness": 0.119,
+    "valence": 0.479,
+    "tempo": 84.943,
+    "type": "audio_features",
+    "id": "70zefru89czDZQTYFkcuae",
+    "uri": "spotify:track:70zefru89czDZQTYFkcuae",
+    "track_href": "https://api.spotify.com/v1/tracks/70zefru89czDZQTYFkcuae",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/70zefru89czDZQTYFkcuae",
+    "duration_ms": 191400,
+    "time_signature": 4
+}

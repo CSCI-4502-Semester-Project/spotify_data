@@ -1,0 +1,20 @@
+{
+    "danceability": 0.805,
+    "energy": 0.425,
+    "key": 6,
+    "loudness": -8.146,
+    "mode": 1,
+    "speechiness": 0.387,
+    "acousticness": 0.557,
+    "instrumentalness": 5.55e-06,
+    "liveness": 0.0987,
+    "valence": 0.725,
+    "tempo": 75.074,
+    "type": "audio_features",
+    "id": "3kF8rHausERpnFDf0gJ1Xk",
+    "uri": "spotify:track:3kF8rHausERpnFDf0gJ1Xk",
+    "track_href": "https://api.spotify.com/v1/tracks/3kF8rHausERpnFDf0gJ1Xk",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/3kF8rHausERpnFDf0gJ1Xk",
+    "duration_ms": 168507,
+    "time_signature": 4
+}

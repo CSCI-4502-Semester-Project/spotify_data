@@ -1,0 +1,20 @@
+{
+    "danceability": 0.542,
+    "energy": 0.566,
+    "key": 0,
+    "loudness": -7.87,
+    "mode": 1,
+    "speechiness": 0.0402,
+    "acousticness": 0.774,
+    "instrumentalness": 1.25e-06,
+    "liveness": 0.0716,
+    "valence": 0.786,
+    "tempo": 134.9,
+    "type": "audio_features",
+    "id": "18ltaDrNPGhcJkzzXvJoeM",
+    "uri": "spotify:track:18ltaDrNPGhcJkzzXvJoeM",
+    "track_href": "https://api.spotify.com/v1/tracks/18ltaDrNPGhcJkzzXvJoeM",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/18ltaDrNPGhcJkzzXvJoeM",
+    "duration_ms": 151853,
+    "time_signature": 4
+}

@@ -1,0 +1,20 @@
+{
+    "danceability": 0.653,
+    "energy": 0.553,
+    "key": 0,
+    "loudness": -6.42,
+    "mode": 1,
+    "speechiness": 0.0288,
+    "acousticness": 0.157,
+    "instrumentalness": 4.04e-05,
+    "liveness": 0.31,
+    "valence": 0.724,
+    "tempo": 89.507,
+    "type": "audio_features",
+    "id": "2CCtvImOR0UZjn0uPLB94P",
+    "uri": "spotify:track:2CCtvImOR0UZjn0uPLB94P",
+    "track_href": "https://api.spotify.com/v1/tracks/2CCtvImOR0UZjn0uPLB94P",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/2CCtvImOR0UZjn0uPLB94P",
+    "duration_ms": 225787,
+    "time_signature": 4
+}

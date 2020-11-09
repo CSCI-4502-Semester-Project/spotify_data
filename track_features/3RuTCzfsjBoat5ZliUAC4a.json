@@ -1,0 +1,20 @@
+{
+    "danceability": 0.42,
+    "energy": 0.0118,
+    "key": 8,
+    "loudness": -24.007,
+    "mode": 1,
+    "speechiness": 0.0375,
+    "acousticness": 0.98,
+    "instrumentalness": 0.907,
+    "liveness": 0.103,
+    "valence": 0.322,
+    "tempo": 98.156,
+    "type": "audio_features",
+    "id": "3RuTCzfsjBoat5ZliUAC4a",
+    "uri": "spotify:track:3RuTCzfsjBoat5ZliUAC4a",
+    "track_href": "https://api.spotify.com/v1/tracks/3RuTCzfsjBoat5ZliUAC4a",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/3RuTCzfsjBoat5ZliUAC4a",
+    "duration_ms": 150000,
+    "time_signature": 3
+}

@@ -1,0 +1,20 @@
+{
+    "danceability": 0.42,
+    "energy": 0.691,
+    "key": 8,
+    "loudness": -12.396,
+    "mode": 1,
+    "speechiness": 0.127,
+    "acousticness": 0.25,
+    "instrumentalness": 0.154,
+    "liveness": 0.261,
+    "valence": 0.64,
+    "tempo": 94.546,
+    "type": "audio_features",
+    "id": "1ShoobAcYcSF5P3Is6vezd",
+    "uri": "spotify:track:1ShoobAcYcSF5P3Is6vezd",
+    "track_href": "https://api.spotify.com/v1/tracks/1ShoobAcYcSF5P3Is6vezd",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/1ShoobAcYcSF5P3Is6vezd",
+    "duration_ms": 377733,
+    "time_signature": 4
+}

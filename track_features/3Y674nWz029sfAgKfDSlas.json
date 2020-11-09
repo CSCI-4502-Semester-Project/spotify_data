@@ -1,0 +1,20 @@
+{
+    "danceability": 0.585,
+    "energy": 0.434,
+    "key": 0,
+    "loudness": -14.984,
+    "mode": 1,
+    "speechiness": 0.0653,
+    "acousticness": 0.552,
+    "instrumentalness": 0.148,
+    "liveness": 0.109,
+    "valence": 0.199,
+    "tempo": 100.513,
+    "type": "audio_features",
+    "id": "3Y674nWz029sfAgKfDSlas",
+    "uri": "spotify:track:3Y674nWz029sfAgKfDSlas",
+    "track_href": "https://api.spotify.com/v1/tracks/3Y674nWz029sfAgKfDSlas",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/3Y674nWz029sfAgKfDSlas",
+    "duration_ms": 228240,
+    "time_signature": 4
+}

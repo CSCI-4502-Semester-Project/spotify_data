@@ -1,0 +1,20 @@
+{
+    "danceability": 0.439,
+    "energy": 0.931,
+    "key": 7,
+    "loudness": -5.007,
+    "mode": 1,
+    "speechiness": 0.0614,
+    "acousticness": 4.92e-05,
+    "instrumentalness": 0.785,
+    "liveness": 0.312,
+    "valence": 0.249,
+    "tempo": 75.002,
+    "type": "audio_features",
+    "id": "2SRpinEBXWmgliIEkdFepI",
+    "uri": "spotify:track:2SRpinEBXWmgliIEkdFepI",
+    "track_href": "https://api.spotify.com/v1/tracks/2SRpinEBXWmgliIEkdFepI",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/2SRpinEBXWmgliIEkdFepI",
+    "duration_ms": 224157,
+    "time_signature": 4
+}

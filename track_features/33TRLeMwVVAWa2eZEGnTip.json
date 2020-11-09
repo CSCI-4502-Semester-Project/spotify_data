@@ -1,0 +1,20 @@
+{
+    "danceability": 0.61,
+    "energy": 0.82,
+    "key": 9,
+    "loudness": -5.035,
+    "mode": 1,
+    "speechiness": 0.0332,
+    "acousticness": 0.101,
+    "instrumentalness": 1.78e-06,
+    "liveness": 0.212,
+    "valence": 0.773,
+    "tempo": 152.091,
+    "type": "audio_features",
+    "id": "33TRLeMwVVAWa2eZEGnTip",
+    "uri": "spotify:track:33TRLeMwVVAWa2eZEGnTip",
+    "track_href": "https://api.spotify.com/v1/tracks/33TRLeMwVVAWa2eZEGnTip",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/33TRLeMwVVAWa2eZEGnTip",
+    "duration_ms": 195067,
+    "time_signature": 4
+}

@@ -1,0 +1,20 @@
+{
+    "danceability": 0.607,
+    "energy": 0.82,
+    "key": 11,
+    "loudness": -7.754,
+    "mode": 1,
+    "speechiness": 0.0597,
+    "acousticness": 0.0541,
+    "instrumentalness": 6.8e-05,
+    "liveness": 0.269,
+    "valence": 0.768,
+    "tempo": 126.988,
+    "type": "audio_features",
+    "id": "5OQGeJ1ceykovrykZsGhqL",
+    "uri": "spotify:track:5OQGeJ1ceykovrykZsGhqL",
+    "track_href": "https://api.spotify.com/v1/tracks/5OQGeJ1ceykovrykZsGhqL",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/5OQGeJ1ceykovrykZsGhqL",
+    "duration_ms": 207507,
+    "time_signature": 4
+}

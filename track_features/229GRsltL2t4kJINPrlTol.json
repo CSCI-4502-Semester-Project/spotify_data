@@ -1,0 +1,20 @@
+{
+    "danceability": 0.703,
+    "energy": 0.342,
+    "key": 9,
+    "loudness": -4.781,
+    "mode": 1,
+    "speechiness": 0.0277,
+    "acousticness": 0.905,
+    "instrumentalness": 7.91e-06,
+    "liveness": 0.104,
+    "valence": 0.17,
+    "tempo": 129.87,
+    "type": "audio_features",
+    "id": "229GRsltL2t4kJINPrlTol",
+    "uri": "spotify:track:229GRsltL2t4kJINPrlTol",
+    "track_href": "https://api.spotify.com/v1/tracks/229GRsltL2t4kJINPrlTol",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/229GRsltL2t4kJINPrlTol",
+    "duration_ms": 246613,
+    "time_signature": 4
+}

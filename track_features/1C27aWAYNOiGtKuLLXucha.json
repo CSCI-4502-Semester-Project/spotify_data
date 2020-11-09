@@ -1,0 +1,20 @@
+{
+    "danceability": 0.557,
+    "energy": 0.811,
+    "key": 0,
+    "loudness": -4.214,
+    "mode": 1,
+    "speechiness": 0.029,
+    "acousticness": 0.000211,
+    "instrumentalness": 0.00328,
+    "liveness": 0.0943,
+    "valence": 0.238,
+    "tempo": 105.98,
+    "type": "audio_features",
+    "id": "1C27aWAYNOiGtKuLLXucha",
+    "uri": "spotify:track:1C27aWAYNOiGtKuLLXucha",
+    "track_href": "https://api.spotify.com/v1/tracks/1C27aWAYNOiGtKuLLXucha",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/1C27aWAYNOiGtKuLLXucha",
+    "duration_ms": 218939,
+    "time_signature": 4
+}

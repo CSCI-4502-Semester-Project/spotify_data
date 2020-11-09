@@ -1,0 +1,20 @@
+{
+    "danceability": 0.7,
+    "energy": 0.434,
+    "key": 3,
+    "loudness": -11.539,
+    "mode": 1,
+    "speechiness": 0.951,
+    "acousticness": 0.986,
+    "instrumentalness": 2.08e-05,
+    "liveness": 0.378,
+    "valence": 0.621,
+    "tempo": 106.331,
+    "type": "audio_features",
+    "id": "2Rt86AliUwJbR0PAKVtbSB",
+    "uri": "spotify:track:2Rt86AliUwJbR0PAKVtbSB",
+    "track_href": "https://api.spotify.com/v1/tracks/2Rt86AliUwJbR0PAKVtbSB",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Rt86AliUwJbR0PAKVtbSB",
+    "duration_ms": 105320,
+    "time_signature": 3
+}

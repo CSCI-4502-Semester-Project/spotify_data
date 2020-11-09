@@ -1,0 +1,20 @@
+{
+    "danceability": 0.759,
+    "energy": 0.408,
+    "key": 7,
+    "loudness": -8.28,
+    "mode": 1,
+    "speechiness": 0.0408,
+    "acousticness": 0.903,
+    "instrumentalness": 3.54e-05,
+    "liveness": 0.103,
+    "valence": 0.454,
+    "tempo": 77.967,
+    "type": "audio_features",
+    "id": "70GTVr12vcjw7LQycKbUPh",
+    "uri": "spotify:track:70GTVr12vcjw7LQycKbUPh",
+    "track_href": "https://api.spotify.com/v1/tracks/70GTVr12vcjw7LQycKbUPh",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/70GTVr12vcjw7LQycKbUPh",
+    "duration_ms": 176053,
+    "time_signature": 4
+}

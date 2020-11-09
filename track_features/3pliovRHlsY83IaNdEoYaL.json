@@ -1,0 +1,20 @@
+{
+    "danceability": 0.292,
+    "energy": 0.912,
+    "key": 3,
+    "loudness": -2.077,
+    "mode": 1,
+    "speechiness": 0.0561,
+    "acousticness": 0.00259,
+    "instrumentalness": 0,
+    "liveness": 0.0853,
+    "valence": 0.475,
+    "tempo": 79.298,
+    "type": "audio_features",
+    "id": "3pliovRHlsY83IaNdEoYaL",
+    "uri": "spotify:track:3pliovRHlsY83IaNdEoYaL",
+    "track_href": "https://api.spotify.com/v1/tracks/3pliovRHlsY83IaNdEoYaL",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/3pliovRHlsY83IaNdEoYaL",
+    "duration_ms": 334227,
+    "time_signature": 3
+}

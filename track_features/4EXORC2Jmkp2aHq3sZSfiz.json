@@ -1,0 +1,20 @@
+{
+    "danceability": 0.44,
+    "energy": 0.628,
+    "key": 2,
+    "loudness": -9.48,
+    "mode": 1,
+    "speechiness": 0.038,
+    "acousticness": 0.00504,
+    "instrumentalness": 0.0942,
+    "liveness": 0.119,
+    "valence": 0.101,
+    "tempo": 119.148,
+    "type": "audio_features",
+    "id": "4EXORC2Jmkp2aHq3sZSfiz",
+    "uri": "spotify:track:4EXORC2Jmkp2aHq3sZSfiz",
+    "track_href": "https://api.spotify.com/v1/tracks/4EXORC2Jmkp2aHq3sZSfiz",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/4EXORC2Jmkp2aHq3sZSfiz",
+    "duration_ms": 411305,
+    "time_signature": 4
+}

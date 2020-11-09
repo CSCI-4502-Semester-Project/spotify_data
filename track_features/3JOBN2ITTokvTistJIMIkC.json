@@ -1,0 +1,20 @@
+{
+    "danceability": 0.473,
+    "energy": 0.668,
+    "key": 1,
+    "loudness": -7.203,
+    "mode": 1,
+    "speechiness": 0.0353,
+    "acousticness": 0.0709,
+    "instrumentalness": 0.00378,
+    "liveness": 0.118,
+    "valence": 0.355,
+    "tempo": 141.989,
+    "type": "audio_features",
+    "id": "3JOBN2ITTokvTistJIMIkC",
+    "uri": "spotify:track:3JOBN2ITTokvTistJIMIkC",
+    "track_href": "https://api.spotify.com/v1/tracks/3JOBN2ITTokvTistJIMIkC",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/3JOBN2ITTokvTistJIMIkC",
+    "duration_ms": 203642,
+    "time_signature": 4
+}

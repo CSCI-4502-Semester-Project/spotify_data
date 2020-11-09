@@ -1,0 +1,20 @@
+{
+    "danceability": 0.146,
+    "energy": 0.85,
+    "key": 0,
+    "loudness": -10.307,
+    "mode": 1,
+    "speechiness": 0.0756,
+    "acousticness": 2.09e-05,
+    "instrumentalness": 0.447,
+    "liveness": 0.0881,
+    "valence": 0.0927,
+    "tempo": 140.018,
+    "type": "audio_features",
+    "id": "5DeWERhlyYJBVivrZg7NQB",
+    "uri": "spotify:track:5DeWERhlyYJBVivrZg7NQB",
+    "track_href": "https://api.spotify.com/v1/tracks/5DeWERhlyYJBVivrZg7NQB",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/5DeWERhlyYJBVivrZg7NQB",
+    "duration_ms": 734590,
+    "time_signature": 4
+}

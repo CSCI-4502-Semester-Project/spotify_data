@@ -1,0 +1,20 @@
+{
+    "danceability": 0.433,
+    "energy": 0.815,
+    "key": 6,
+    "loudness": -3.658,
+    "mode": 1,
+    "speechiness": 0.0771,
+    "acousticness": 0.00879,
+    "instrumentalness": 0,
+    "liveness": 0.138,
+    "valence": 0.461,
+    "tempo": 125.358,
+    "type": "audio_features",
+    "id": "0xpKRzMR9x53jKSdugItan",
+    "uri": "spotify:track:0xpKRzMR9x53jKSdugItan",
+    "track_href": "https://api.spotify.com/v1/tracks/0xpKRzMR9x53jKSdugItan",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/0xpKRzMR9x53jKSdugItan",
+    "duration_ms": 262867,
+    "time_signature": 4
+}

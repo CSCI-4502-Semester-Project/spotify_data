@@ -1,0 +1,20 @@
+{
+    "danceability": 0.643,
+    "energy": 0.17,
+    "key": 5,
+    "loudness": -22.022,
+    "mode": 0,
+    "speechiness": 0.963,
+    "acousticness": 0.814,
+    "instrumentalness": 0,
+    "liveness": 0.281,
+    "valence": 0.403,
+    "tempo": 161.465,
+    "type": "audio_features",
+    "id": "6cENds5nVVunR1jV7nRmey",
+    "uri": "spotify:track:6cENds5nVVunR1jV7nRmey",
+    "track_href": "https://api.spotify.com/v1/tracks/6cENds5nVVunR1jV7nRmey",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/6cENds5nVVunR1jV7nRmey",
+    "duration_ms": 23795,
+    "time_signature": 5
+}

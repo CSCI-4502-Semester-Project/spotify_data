@@ -1,0 +1,20 @@
+{
+    "danceability": 0.663,
+    "energy": 0.938,
+    "key": 8,
+    "loudness": -3.983,
+    "mode": 0,
+    "speechiness": 0.333,
+    "acousticness": 0.0213,
+    "instrumentalness": 0.000158,
+    "liveness": 0.267,
+    "valence": 0.203,
+    "tempo": 87.483,
+    "type": "audio_features",
+    "id": "280GTugWGqHE2QXRv8fjoy",
+    "uri": "spotify:track:280GTugWGqHE2QXRv8fjoy",
+    "track_href": "https://api.spotify.com/v1/tracks/280GTugWGqHE2QXRv8fjoy",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/280GTugWGqHE2QXRv8fjoy",
+    "duration_ms": 145000,
+    "time_signature": 4
+}

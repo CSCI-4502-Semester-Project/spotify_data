@@ -1,0 +1,20 @@
+{
+    "danceability": 0.381,
+    "energy": 0.964,
+    "key": 2,
+    "loudness": -3.542,
+    "mode": 1,
+    "speechiness": 0.137,
+    "acousticness": 3.26e-05,
+    "instrumentalness": 0.426,
+    "liveness": 0.323,
+    "valence": 0.308,
+    "tempo": 160.043,
+    "type": "audio_features",
+    "id": "2sP2TwYA3zewyBDrZsGahr",
+    "uri": "spotify:track:2sP2TwYA3zewyBDrZsGahr",
+    "track_href": "https://api.spotify.com/v1/tracks/2sP2TwYA3zewyBDrZsGahr",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/2sP2TwYA3zewyBDrZsGahr",
+    "duration_ms": 220741,
+    "time_signature": 4
+}

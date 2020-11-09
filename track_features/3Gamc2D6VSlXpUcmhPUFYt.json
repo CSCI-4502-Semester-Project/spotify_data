@@ -1,0 +1,20 @@
+{
+    "danceability": 0.835,
+    "energy": 0.678,
+    "key": 4,
+    "loudness": -6.458,
+    "mode": 1,
+    "speechiness": 0.124,
+    "acousticness": 0.227,
+    "instrumentalness": 6.44e-06,
+    "liveness": 0.287,
+    "valence": 0.708,
+    "tempo": 132.868,
+    "type": "audio_features",
+    "id": "3Gamc2D6VSlXpUcmhPUFYt",
+    "uri": "spotify:track:3Gamc2D6VSlXpUcmhPUFYt",
+    "track_href": "https://api.spotify.com/v1/tracks/3Gamc2D6VSlXpUcmhPUFYt",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/3Gamc2D6VSlXpUcmhPUFYt",
+    "duration_ms": 209490,
+    "time_signature": 4
+}

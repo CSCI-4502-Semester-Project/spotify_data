@@ -1,0 +1,20 @@
+{
+    "danceability": 0.484,
+    "energy": 0.542,
+    "key": 0,
+    "loudness": -7.656,
+    "mode": 1,
+    "speechiness": 0.0291,
+    "acousticness": 0.134,
+    "instrumentalness": 0.0165,
+    "liveness": 0.176,
+    "valence": 0.293,
+    "tempo": 112.976,
+    "type": "audio_features",
+    "id": "5R39641vghkRv13mzmNEXI",
+    "uri": "spotify:track:5R39641vghkRv13mzmNEXI",
+    "track_href": "https://api.spotify.com/v1/tracks/5R39641vghkRv13mzmNEXI",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/5R39641vghkRv13mzmNEXI",
+    "duration_ms": 203533,
+    "time_signature": 4
+}

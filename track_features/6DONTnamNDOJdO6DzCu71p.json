@@ -1,0 +1,20 @@
+{
+    "danceability": 0.484,
+    "energy": 0.749,
+    "key": 1,
+    "loudness": -4.176,
+    "mode": 1,
+    "speechiness": 0.0687,
+    "acousticness": 0.699,
+    "instrumentalness": 0.861,
+    "liveness": 0.105,
+    "valence": 0.468,
+    "tempo": 160.006,
+    "type": "audio_features",
+    "id": "6DONTnamNDOJdO6DzCu71p",
+    "uri": "spotify:track:6DONTnamNDOJdO6DzCu71p",
+    "track_href": "https://api.spotify.com/v1/tracks/6DONTnamNDOJdO6DzCu71p",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/6DONTnamNDOJdO6DzCu71p",
+    "duration_ms": 141395,
+    "time_signature": 4
+}

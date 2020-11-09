@@ -1,0 +1,20 @@
+{
+    "danceability": 0.592,
+    "energy": 0.34,
+    "key": 0,
+    "loudness": -11.314,
+    "mode": 1,
+    "speechiness": 0.0287,
+    "acousticness": 0.542,
+    "instrumentalness": 0.38,
+    "liveness": 0.105,
+    "valence": 0.255,
+    "tempo": 124.706,
+    "type": "audio_features",
+    "id": "5dIGWhOYRiCAIMoDjimCAn",
+    "uri": "spotify:track:5dIGWhOYRiCAIMoDjimCAn",
+    "track_href": "https://api.spotify.com/v1/tracks/5dIGWhOYRiCAIMoDjimCAn",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/5dIGWhOYRiCAIMoDjimCAn",
+    "duration_ms": 243973,
+    "time_signature": 4
+}

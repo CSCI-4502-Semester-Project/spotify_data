@@ -1,0 +1,20 @@
+{
+    "danceability": 0.606,
+    "energy": 0.13,
+    "key": 5,
+    "loudness": -10.029,
+    "mode": 1,
+    "speechiness": 0.134,
+    "acousticness": 0.945,
+    "instrumentalness": 5.07e-06,
+    "liveness": 0.117,
+    "valence": 0.177,
+    "tempo": 177.1,
+    "type": "audio_features",
+    "id": "5YLpIdoLpKPSPCamFAKUCi",
+    "uri": "spotify:track:5YLpIdoLpKPSPCamFAKUCi",
+    "track_href": "https://api.spotify.com/v1/tracks/5YLpIdoLpKPSPCamFAKUCi",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/5YLpIdoLpKPSPCamFAKUCi",
+    "duration_ms": 111050,
+    "time_signature": 4
+}

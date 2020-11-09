@@ -1,0 +1,20 @@
+{
+    "danceability": 0.234,
+    "energy": 0.958,
+    "key": 11,
+    "loudness": -4.64,
+    "mode": 1,
+    "speechiness": 0.0816,
+    "acousticness": 8.54e-06,
+    "instrumentalness": 3.62e-06,
+    "liveness": 0.206,
+    "valence": 0.532,
+    "tempo": 101.935,
+    "type": "audio_features",
+    "id": "2Meangpbyvif2jmc1Uf2al",
+    "uri": "spotify:track:2Meangpbyvif2jmc1Uf2al",
+    "track_href": "https://api.spotify.com/v1/tracks/2Meangpbyvif2jmc1Uf2al",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Meangpbyvif2jmc1Uf2al",
+    "duration_ms": 148040,
+    "time_signature": 4
+}

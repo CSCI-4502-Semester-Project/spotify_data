@@ -1,0 +1,20 @@
+{
+    "danceability": 0.151,
+    "energy": 0.0244,
+    "key": 6,
+    "loudness": -32.248,
+    "mode": 0,
+    "speechiness": 0.04,
+    "acousticness": 0.98,
+    "instrumentalness": 0.912,
+    "liveness": 0.11,
+    "valence": 0.0358,
+    "tempo": 65.585,
+    "type": "audio_features",
+    "id": "5DuALA01mvSWTNM9xi2Rqm",
+    "uri": "spotify:track:5DuALA01mvSWTNM9xi2Rqm",
+    "track_href": "https://api.spotify.com/v1/tracks/5DuALA01mvSWTNM9xi2Rqm",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/5DuALA01mvSWTNM9xi2Rqm",
+    "duration_ms": 162776,
+    "time_signature": 4
+}

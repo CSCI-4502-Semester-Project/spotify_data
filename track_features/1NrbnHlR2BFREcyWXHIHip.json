@@ -1,0 +1,20 @@
+{
+    "danceability": 0.704,
+    "energy": 0.241,
+    "key": 1,
+    "loudness": -13.258,
+    "mode": 1,
+    "speechiness": 0.0476,
+    "acousticness": 0.625,
+    "instrumentalness": 2.8e-05,
+    "liveness": 0.0868,
+    "valence": 0.661,
+    "tempo": 140.411,
+    "type": "audio_features",
+    "id": "1NrbnHlR2BFREcyWXHIHip",
+    "uri": "spotify:track:1NrbnHlR2BFREcyWXHIHip",
+    "track_href": "https://api.spotify.com/v1/tracks/1NrbnHlR2BFREcyWXHIHip",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/1NrbnHlR2BFREcyWXHIHip",
+    "duration_ms": 157667,
+    "time_signature": 4
+}

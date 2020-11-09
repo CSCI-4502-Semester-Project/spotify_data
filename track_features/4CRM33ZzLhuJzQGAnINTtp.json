@@ -1,0 +1,20 @@
+{
+    "danceability": 0.306,
+    "energy": 0.377,
+    "key": 3,
+    "loudness": -8.08,
+    "mode": 1,
+    "speechiness": 0.0411,
+    "acousticness": 0.393,
+    "instrumentalness": 1.11e-06,
+    "liveness": 0.12,
+    "valence": 0.103,
+    "tempo": 73.591,
+    "type": "audio_features",
+    "id": "4CRM33ZzLhuJzQGAnINTtp",
+    "uri": "spotify:track:4CRM33ZzLhuJzQGAnINTtp",
+    "track_href": "https://api.spotify.com/v1/tracks/4CRM33ZzLhuJzQGAnINTtp",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/4CRM33ZzLhuJzQGAnINTtp",
+    "duration_ms": 211500,
+    "time_signature": 4
+}

@@ -1,0 +1,20 @@
+{
+    "danceability": 0.698,
+    "energy": 0.409,
+    "key": 9,
+    "loudness": -11.442,
+    "mode": 0,
+    "speechiness": 0.0347,
+    "acousticness": 0.683,
+    "instrumentalness": 0.926,
+    "liveness": 0.113,
+    "valence": 0.766,
+    "tempo": 136.04,
+    "type": "audio_features",
+    "id": "7BCmtam7tustgimiSwYsPK",
+    "uri": "spotify:track:7BCmtam7tustgimiSwYsPK",
+    "track_href": "https://api.spotify.com/v1/tracks/7BCmtam7tustgimiSwYsPK",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/7BCmtam7tustgimiSwYsPK",
+    "duration_ms": 127053,
+    "time_signature": 4
+}

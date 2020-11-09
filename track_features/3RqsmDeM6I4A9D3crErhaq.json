@@ -1,0 +1,20 @@
+{
+    "danceability": 0.315,
+    "energy": 0.826,
+    "key": 7,
+    "loudness": -4.315,
+    "mode": 0,
+    "speechiness": 0.0644,
+    "acousticness": 0.000621,
+    "instrumentalness": 0.000669,
+    "liveness": 0.0703,
+    "valence": 0.359,
+    "tempo": 139.163,
+    "type": "audio_features",
+    "id": "3RqsmDeM6I4A9D3crErhaq",
+    "uri": "spotify:track:3RqsmDeM6I4A9D3crErhaq",
+    "track_href": "https://api.spotify.com/v1/tracks/3RqsmDeM6I4A9D3crErhaq",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/3RqsmDeM6I4A9D3crErhaq",
+    "duration_ms": 256072,
+    "time_signature": 4
+}

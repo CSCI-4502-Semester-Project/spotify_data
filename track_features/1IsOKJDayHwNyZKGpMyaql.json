@@ -1,0 +1,20 @@
+{
+    "danceability": 0.145,
+    "energy": 0.938,
+    "key": 2,
+    "loudness": -2.488,
+    "mode": 1,
+    "speechiness": 0.0627,
+    "acousticness": 0.000275,
+    "instrumentalness": 0.00187,
+    "liveness": 0.38,
+    "valence": 0.204,
+    "tempo": 202.403,
+    "type": "audio_features",
+    "id": "1IsOKJDayHwNyZKGpMyaql",
+    "uri": "spotify:track:1IsOKJDayHwNyZKGpMyaql",
+    "track_href": "https://api.spotify.com/v1/tracks/1IsOKJDayHwNyZKGpMyaql",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/1IsOKJDayHwNyZKGpMyaql",
+    "duration_ms": 341907,
+    "time_signature": 4
+}

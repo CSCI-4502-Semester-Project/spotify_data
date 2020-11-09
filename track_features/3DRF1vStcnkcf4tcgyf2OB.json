@@ -1,0 +1,20 @@
+{
+    "danceability": 0.623,
+    "energy": 0.61,
+    "key": 5,
+    "loudness": -9.092,
+    "mode": 1,
+    "speechiness": 0.0348,
+    "acousticness": 0.14,
+    "instrumentalness": 0.0504,
+    "liveness": 0.11,
+    "valence": 0.857,
+    "tempo": 80.01,
+    "type": "audio_features",
+    "id": "3DRF1vStcnkcf4tcgyf2OB",
+    "uri": "spotify:track:3DRF1vStcnkcf4tcgyf2OB",
+    "track_href": "https://api.spotify.com/v1/tracks/3DRF1vStcnkcf4tcgyf2OB",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/3DRF1vStcnkcf4tcgyf2OB",
+    "duration_ms": 210895,
+    "time_signature": 4
+}

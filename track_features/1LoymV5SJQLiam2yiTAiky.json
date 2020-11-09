@@ -1,0 +1,20 @@
+{
+    "danceability": 0.322,
+    "energy": 0.056,
+    "key": 11,
+    "loudness": -24.835,
+    "mode": 1,
+    "speechiness": 0.0402,
+    "acousticness": 0.981,
+    "instrumentalness": 0.906,
+    "liveness": 0.149,
+    "valence": 0.0385,
+    "tempo": 62.291,
+    "type": "audio_features",
+    "id": "1LoymV5SJQLiam2yiTAiky",
+    "uri": "spotify:track:1LoymV5SJQLiam2yiTAiky",
+    "track_href": "https://api.spotify.com/v1/tracks/1LoymV5SJQLiam2yiTAiky",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/1LoymV5SJQLiam2yiTAiky",
+    "duration_ms": 79253,
+    "time_signature": 3
+}

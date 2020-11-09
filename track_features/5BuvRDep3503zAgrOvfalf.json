@@ -1,0 +1,20 @@
+{
+    "danceability": 0.4,
+    "energy": 0.962,
+    "key": 2,
+    "loudness": -3.478,
+    "mode": 1,
+    "speechiness": 0.101,
+    "acousticness": 0.000966,
+    "instrumentalness": 0.000318,
+    "liveness": 0.384,
+    "valence": 0.328,
+    "tempo": 130.176,
+    "type": "audio_features",
+    "id": "5BuvRDep3503zAgrOvfalf",
+    "uri": "spotify:track:5BuvRDep3503zAgrOvfalf",
+    "track_href": "https://api.spotify.com/v1/tracks/5BuvRDep3503zAgrOvfalf",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/5BuvRDep3503zAgrOvfalf",
+    "duration_ms": 239500,
+    "time_signature": 4
+}

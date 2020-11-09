@@ -1,0 +1,20 @@
+{
+    "danceability": 0.359,
+    "energy": 0.0563,
+    "key": 7,
+    "loudness": -18.77,
+    "mode": 1,
+    "speechiness": 0.0374,
+    "acousticness": 0.979,
+    "instrumentalness": 0.00459,
+    "liveness": 0.0994,
+    "valence": 0.145,
+    "tempo": 165.102,
+    "type": "audio_features",
+    "id": "3ThCPINLVGtNGFhxLC4slT",
+    "uri": "spotify:track:3ThCPINLVGtNGFhxLC4slT",
+    "track_href": "https://api.spotify.com/v1/tracks/3ThCPINLVGtNGFhxLC4slT",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/3ThCPINLVGtNGFhxLC4slT",
+    "duration_ms": 192000,
+    "time_signature": 3
+}

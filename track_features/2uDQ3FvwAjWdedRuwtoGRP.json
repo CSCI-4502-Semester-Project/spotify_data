@@ -1,0 +1,20 @@
+{
+    "danceability": 0.413,
+    "energy": 0.185,
+    "key": 5,
+    "loudness": -22.241,
+    "mode": 1,
+    "speechiness": 0.0344,
+    "acousticness": 0.977,
+    "instrumentalness": 0.279,
+    "liveness": 0.344,
+    "valence": 0.377,
+    "tempo": 98.48,
+    "type": "audio_features",
+    "id": "2uDQ3FvwAjWdedRuwtoGRP",
+    "uri": "spotify:track:2uDQ3FvwAjWdedRuwtoGRP",
+    "track_href": "https://api.spotify.com/v1/tracks/2uDQ3FvwAjWdedRuwtoGRP",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/2uDQ3FvwAjWdedRuwtoGRP",
+    "duration_ms": 213387,
+    "time_signature": 4
+}

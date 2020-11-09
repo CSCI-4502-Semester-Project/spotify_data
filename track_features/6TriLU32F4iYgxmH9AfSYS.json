@@ -1,0 +1,20 @@
+{
+    "danceability": 0.675,
+    "energy": 0.673,
+    "key": 10,
+    "loudness": -7.313,
+    "mode": 0,
+    "speechiness": 0.054,
+    "acousticness": 0.401,
+    "instrumentalness": 0,
+    "liveness": 0.126,
+    "valence": 0.582,
+    "tempo": 100.056,
+    "type": "audio_features",
+    "id": "6TriLU32F4iYgxmH9AfSYS",
+    "uri": "spotify:track:6TriLU32F4iYgxmH9AfSYS",
+    "track_href": "https://api.spotify.com/v1/tracks/6TriLU32F4iYgxmH9AfSYS",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/6TriLU32F4iYgxmH9AfSYS",
+    "duration_ms": 205613,
+    "time_signature": 4
+}

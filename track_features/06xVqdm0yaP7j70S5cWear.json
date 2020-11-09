@@ -1,0 +1,20 @@
+{
+    "danceability": 0.457,
+    "energy": 0.973,
+    "key": 9,
+    "loudness": -5.31,
+    "mode": 1,
+    "speechiness": 0.119,
+    "acousticness": 0.00807,
+    "instrumentalness": 3.03e-05,
+    "liveness": 0.687,
+    "valence": 0.287,
+    "tempo": 79.898,
+    "type": "audio_features",
+    "id": "06xVqdm0yaP7j70S5cWear",
+    "uri": "spotify:track:06xVqdm0yaP7j70S5cWear",
+    "track_href": "https://api.spotify.com/v1/tracks/06xVqdm0yaP7j70S5cWear",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/06xVqdm0yaP7j70S5cWear",
+    "duration_ms": 107760,
+    "time_signature": 4
+}

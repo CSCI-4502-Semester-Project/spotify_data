@@ -1,0 +1,20 @@
+{
+    "danceability": 0.584,
+    "energy": 0.689,
+    "key": 1,
+    "loudness": -6.239,
+    "mode": 0,
+    "speechiness": 0.0304,
+    "acousticness": 0.00306,
+    "instrumentalness": 1.01e-06,
+    "liveness": 0.0685,
+    "valence": 0.673,
+    "tempo": 144.012,
+    "type": "audio_features",
+    "id": "53crbk1JclnW6kJatrefYe",
+    "uri": "spotify:track:53crbk1JclnW6kJatrefYe",
+    "track_href": "https://api.spotify.com/v1/tracks/53crbk1JclnW6kJatrefYe",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/53crbk1JclnW6kJatrefYe",
+    "duration_ms": 269132,
+    "time_signature": 4
+}

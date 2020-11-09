@@ -1,0 +1,20 @@
+{
+    "danceability": 0.462,
+    "energy": 0.838,
+    "key": 7,
+    "loudness": -7.132,
+    "mode": 1,
+    "speechiness": 0.0322,
+    "acousticness": 0.00278,
+    "instrumentalness": 0.00888,
+    "liveness": 0.0783,
+    "valence": 0.356,
+    "tempo": 141.834,
+    "type": "audio_features",
+    "id": "2ZGPOrli2QCDz1it8FB15f",
+    "uri": "spotify:track:2ZGPOrli2QCDz1it8FB15f",
+    "track_href": "https://api.spotify.com/v1/tracks/2ZGPOrli2QCDz1it8FB15f",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/2ZGPOrli2QCDz1it8FB15f",
+    "duration_ms": 230826,
+    "time_signature": 4
+}

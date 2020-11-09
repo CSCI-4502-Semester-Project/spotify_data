@@ -1,0 +1,20 @@
+{
+    "danceability": 0.816,
+    "energy": 0.689,
+    "key": 5,
+    "loudness": -5.793,
+    "mode": 1,
+    "speechiness": 0.0715,
+    "acousticness": 0.194,
+    "instrumentalness": 0.0322,
+    "liveness": 0.0592,
+    "valence": 0.567,
+    "tempo": 99.523,
+    "type": "audio_features",
+    "id": "1BDY39wDjT45KwlPADHap3",
+    "uri": "spotify:track:1BDY39wDjT45KwlPADHap3",
+    "track_href": "https://api.spotify.com/v1/tracks/1BDY39wDjT45KwlPADHap3",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/1BDY39wDjT45KwlPADHap3",
+    "duration_ms": 241707,
+    "time_signature": 4
+}

@@ -1,0 +1,20 @@
+{
+    "danceability": 0.646,
+    "energy": 0.818,
+    "key": 9,
+    "loudness": -6.752,
+    "mode": 0,
+    "speechiness": 0.0442,
+    "acousticness": 0.189,
+    "instrumentalness": 0.675,
+    "liveness": 0.12,
+    "valence": 0.147,
+    "tempo": 115.007,
+    "type": "audio_features",
+    "id": "4HEFtMMJarOpXCBFLJJeui",
+    "uri": "spotify:track:4HEFtMMJarOpXCBFLJJeui",
+    "track_href": "https://api.spotify.com/v1/tracks/4HEFtMMJarOpXCBFLJJeui",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/4HEFtMMJarOpXCBFLJJeui",
+    "duration_ms": 233739,
+    "time_signature": 4
+}

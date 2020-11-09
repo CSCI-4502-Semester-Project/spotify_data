@@ -1,0 +1,20 @@
+{
+    "danceability": 0.42,
+    "energy": 0.234,
+    "key": 8,
+    "loudness": -16.267,
+    "mode": 1,
+    "speechiness": 0.042,
+    "acousticness": 0.988,
+    "instrumentalness": 0.636,
+    "liveness": 0.299,
+    "valence": 0.271,
+    "tempo": 135.587,
+    "type": "audio_features",
+    "id": "5DudaYNkalEySAbRdGUjce",
+    "uri": "spotify:track:5DudaYNkalEySAbRdGUjce",
+    "track_href": "https://api.spotify.com/v1/tracks/5DudaYNkalEySAbRdGUjce",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/5DudaYNkalEySAbRdGUjce",
+    "duration_ms": 209160,
+    "time_signature": 3
+}

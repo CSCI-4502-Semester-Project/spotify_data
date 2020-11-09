@@ -1,0 +1,20 @@
+{
+    "danceability": 0.183,
+    "energy": 0.982,
+    "key": 0,
+    "loudness": -14.93,
+    "mode": 1,
+    "speechiness": 0.0561,
+    "acousticness": 0.505,
+    "instrumentalness": 0.991,
+    "liveness": 0.366,
+    "valence": 0.0148,
+    "tempo": 96.725,
+    "type": "audio_features",
+    "id": "37wiCEmnu63MHVEsfKaqu8",
+    "uri": "spotify:track:37wiCEmnu63MHVEsfKaqu8",
+    "track_href": "https://api.spotify.com/v1/tracks/37wiCEmnu63MHVEsfKaqu8",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/37wiCEmnu63MHVEsfKaqu8",
+    "duration_ms": 61283,
+    "time_signature": 5
+}

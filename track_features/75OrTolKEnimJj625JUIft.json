@@ -1,0 +1,20 @@
+{
+    "danceability": 0.219,
+    "energy": 0.578,
+    "key": 7,
+    "loudness": -12.249,
+    "mode": 1,
+    "speechiness": 0.0615,
+    "acousticness": 0.0293,
+    "instrumentalness": 0.927,
+    "liveness": 0.108,
+    "valence": 0.174,
+    "tempo": 135.061,
+    "type": "audio_features",
+    "id": "75OrTolKEnimJj625JUIft",
+    "uri": "spotify:track:75OrTolKEnimJj625JUIft",
+    "track_href": "https://api.spotify.com/v1/tracks/75OrTolKEnimJj625JUIft",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/75OrTolKEnimJj625JUIft",
+    "duration_ms": 381200,
+    "time_signature": 4
+}

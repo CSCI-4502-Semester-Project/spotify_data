@@ -1,0 +1,20 @@
+{
+    "danceability": 0.252,
+    "energy": 0.592,
+    "key": 9,
+    "loudness": -7.778,
+    "mode": 0,
+    "speechiness": 0.0314,
+    "acousticness": 0.0568,
+    "instrumentalness": 0.000285,
+    "liveness": 0.14,
+    "valence": 0.229,
+    "tempo": 170.094,
+    "type": "audio_features",
+    "id": "1faolBLC36cigtao56kZHM",
+    "uri": "spotify:track:1faolBLC36cigtao56kZHM",
+    "track_href": "https://api.spotify.com/v1/tracks/1faolBLC36cigtao56kZHM",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/1faolBLC36cigtao56kZHM",
+    "duration_ms": 176880,
+    "time_signature": 4
+}

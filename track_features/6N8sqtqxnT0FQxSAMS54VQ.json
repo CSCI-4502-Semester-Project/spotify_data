@@ -1,0 +1,20 @@
+{
+    "danceability": 0.601,
+    "energy": 0.55,
+    "key": 1,
+    "loudness": -12.366,
+    "mode": 0,
+    "speechiness": 0.594,
+    "acousticness": 0.815,
+    "instrumentalness": 0,
+    "liveness": 0.188,
+    "valence": 0.448,
+    "tempo": 89.642,
+    "type": "audio_features",
+    "id": "6N8sqtqxnT0FQxSAMS54VQ",
+    "uri": "spotify:track:6N8sqtqxnT0FQxSAMS54VQ",
+    "track_href": "https://api.spotify.com/v1/tracks/6N8sqtqxnT0FQxSAMS54VQ",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/6N8sqtqxnT0FQxSAMS54VQ",
+    "duration_ms": 137267,
+    "time_signature": 3
+}

@@ -1,0 +1,20 @@
+{
+    "danceability": 0.535,
+    "energy": 0.576,
+    "key": 11,
+    "loudness": -8.146,
+    "mode": 0,
+    "speechiness": 0.029,
+    "acousticness": 0.00468,
+    "instrumentalness": 5.6e-05,
+    "liveness": 0.134,
+    "valence": 0.782,
+    "tempo": 149.96,
+    "type": "audio_features",
+    "id": "5CptVTICSIqvi7dtU97w1A",
+    "uri": "spotify:track:5CptVTICSIqvi7dtU97w1A",
+    "track_href": "https://api.spotify.com/v1/tracks/5CptVTICSIqvi7dtU97w1A",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/5CptVTICSIqvi7dtU97w1A",
+    "duration_ms": 231600,
+    "time_signature": 4
+}

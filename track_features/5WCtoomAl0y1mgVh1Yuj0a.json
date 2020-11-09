@@ -1,0 +1,20 @@
+{
+    "danceability": 0.481,
+    "energy": 0.705,
+    "key": 1,
+    "loudness": -11.101,
+    "mode": 0,
+    "speechiness": 0.0313,
+    "acousticness": 0.000305,
+    "instrumentalness": 0.339,
+    "liveness": 0.141,
+    "valence": 0.249,
+    "tempo": 107.647,
+    "type": "audio_features",
+    "id": "5WCtoomAl0y1mgVh1Yuj0a",
+    "uri": "spotify:track:5WCtoomAl0y1mgVh1Yuj0a",
+    "track_href": "https://api.spotify.com/v1/tracks/5WCtoomAl0y1mgVh1Yuj0a",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/5WCtoomAl0y1mgVh1Yuj0a",
+    "duration_ms": 330507,
+    "time_signature": 4
+}

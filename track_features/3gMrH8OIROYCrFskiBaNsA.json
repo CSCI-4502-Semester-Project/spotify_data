@@ -1,0 +1,20 @@
+{
+    "danceability": 0.343,
+    "energy": 0.385,
+    "key": 11,
+    "loudness": -9.223,
+    "mode": 1,
+    "speechiness": 0.0338,
+    "acousticness": 0.33,
+    "instrumentalness": 1.59e-06,
+    "liveness": 0.14,
+    "valence": 0.0389,
+    "tempo": 100.735,
+    "type": "audio_features",
+    "id": "3gMrH8OIROYCrFskiBaNsA",
+    "uri": "spotify:track:3gMrH8OIROYCrFskiBaNsA",
+    "track_href": "https://api.spotify.com/v1/tracks/3gMrH8OIROYCrFskiBaNsA",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/3gMrH8OIROYCrFskiBaNsA",
+    "duration_ms": 259640,
+    "time_signature": 4
+}

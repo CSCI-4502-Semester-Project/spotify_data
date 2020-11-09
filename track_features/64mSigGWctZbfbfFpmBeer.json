@@ -1,0 +1,20 @@
+{
+    "danceability": 0.602,
+    "energy": 0.497,
+    "key": 11,
+    "loudness": -5.865,
+    "mode": 1,
+    "speechiness": 0.0534,
+    "acousticness": 0.428,
+    "instrumentalness": 0.000978,
+    "liveness": 0.342,
+    "valence": 0.46,
+    "tempo": 139.99,
+    "type": "audio_features",
+    "id": "64mSigGWctZbfbfFpmBeer",
+    "uri": "spotify:track:64mSigGWctZbfbfFpmBeer",
+    "track_href": "https://api.spotify.com/v1/tracks/64mSigGWctZbfbfFpmBeer",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/64mSigGWctZbfbfFpmBeer",
+    "duration_ms": 467733,
+    "time_signature": 4
+}

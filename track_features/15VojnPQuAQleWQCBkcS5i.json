@@ -1,0 +1,20 @@
+{
+    "danceability": 0.454,
+    "energy": 0.926,
+    "key": 10,
+    "loudness": -2.171,
+    "mode": 0,
+    "speechiness": 0.0674,
+    "acousticness": 0.000445,
+    "instrumentalness": 0,
+    "liveness": 0.107,
+    "valence": 0.574,
+    "tempo": 159.845,
+    "type": "audio_features",
+    "id": "15VojnPQuAQleWQCBkcS5i",
+    "uri": "spotify:track:15VojnPQuAQleWQCBkcS5i",
+    "track_href": "https://api.spotify.com/v1/tracks/15VojnPQuAQleWQCBkcS5i",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/15VojnPQuAQleWQCBkcS5i",
+    "duration_ms": 219840,
+    "time_signature": 4
+}

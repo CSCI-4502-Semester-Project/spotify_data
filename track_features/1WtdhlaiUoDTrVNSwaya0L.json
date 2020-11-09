@@ -1,0 +1,20 @@
+{
+    "danceability": 0.507,
+    "energy": 0.805,
+    "key": 9,
+    "loudness": -4.611,
+    "mode": 0,
+    "speechiness": 0.0867,
+    "acousticness": 0.396,
+    "instrumentalness": 1.16e-06,
+    "liveness": 0.106,
+    "valence": 0.513,
+    "tempo": 167.983,
+    "type": "audio_features",
+    "id": "1WtdhlaiUoDTrVNSwaya0L",
+    "uri": "spotify:track:1WtdhlaiUoDTrVNSwaya0L",
+    "track_href": "https://api.spotify.com/v1/tracks/1WtdhlaiUoDTrVNSwaya0L",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/1WtdhlaiUoDTrVNSwaya0L",
+    "duration_ms": 195480,
+    "time_signature": 4
+}

@@ -1,0 +1,20 @@
+{
+    "danceability": 0.276,
+    "energy": 0.449,
+    "key": 4,
+    "loudness": -11.428,
+    "mode": 1,
+    "speechiness": 0.0375,
+    "acousticness": 0.00782,
+    "instrumentalness": 0.783,
+    "liveness": 0.108,
+    "valence": 0.278,
+    "tempo": 101.687,
+    "type": "audio_features",
+    "id": "33HRECrmuelZxOpid6XTNX",
+    "uri": "spotify:track:33HRECrmuelZxOpid6XTNX",
+    "track_href": "https://api.spotify.com/v1/tracks/33HRECrmuelZxOpid6XTNX",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/33HRECrmuelZxOpid6XTNX",
+    "duration_ms": 230987,
+    "time_signature": 4
+}

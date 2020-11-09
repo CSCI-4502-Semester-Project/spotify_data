@@ -1,0 +1,20 @@
+{
+    "danceability": 0.0799,
+    "energy": 0.0928,
+    "key": 8,
+    "loudness": -26.22,
+    "mode": 1,
+    "speechiness": 0.0385,
+    "acousticness": 0.934,
+    "instrumentalness": 0.893,
+    "liveness": 0.0921,
+    "valence": 0.047,
+    "tempo": 74.725,
+    "type": "audio_features",
+    "id": "2Gdybo91D2AszWaPKGLrul",
+    "uri": "spotify:track:2Gdybo91D2AszWaPKGLrul",
+    "track_href": "https://api.spotify.com/v1/tracks/2Gdybo91D2AszWaPKGLrul",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Gdybo91D2AszWaPKGLrul",
+    "duration_ms": 228484,
+    "time_signature": 4
+}

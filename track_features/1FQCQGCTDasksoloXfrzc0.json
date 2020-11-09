@@ -1,0 +1,20 @@
+{
+    "danceability": 0.711,
+    "energy": 0.681,
+    "key": 8,
+    "loudness": -10.613,
+    "mode": 1,
+    "speechiness": 0.0385,
+    "acousticness": 0.32,
+    "instrumentalness": 0.0951,
+    "liveness": 0.171,
+    "valence": 0.557,
+    "tempo": 110.028,
+    "type": "audio_features",
+    "id": "1FQCQGCTDasksoloXfrzc0",
+    "uri": "spotify:track:1FQCQGCTDasksoloXfrzc0",
+    "track_href": "https://api.spotify.com/v1/tracks/1FQCQGCTDasksoloXfrzc0",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/1FQCQGCTDasksoloXfrzc0",
+    "duration_ms": 280627,
+    "time_signature": 4
+}

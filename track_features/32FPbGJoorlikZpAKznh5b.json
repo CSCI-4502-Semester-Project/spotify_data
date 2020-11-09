@@ -1,0 +1,20 @@
+{
+    "danceability": 0.564,
+    "energy": 0.174,
+    "key": 7,
+    "loudness": -15.924,
+    "mode": 1,
+    "speechiness": 0.0389,
+    "acousticness": 0.704,
+    "instrumentalness": 0.00317,
+    "liveness": 0.139,
+    "valence": 0.207,
+    "tempo": 111.542,
+    "type": "audio_features",
+    "id": "32FPbGJoorlikZpAKznh5b",
+    "uri": "spotify:track:32FPbGJoorlikZpAKznh5b",
+    "track_href": "https://api.spotify.com/v1/tracks/32FPbGJoorlikZpAKznh5b",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/32FPbGJoorlikZpAKznh5b",
+    "duration_ms": 250400,
+    "time_signature": 3
+}

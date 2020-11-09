@@ -1,0 +1,20 @@
+{
+    "danceability": 0.436,
+    "energy": 0.5,
+    "key": 9,
+    "loudness": -11.057,
+    "mode": 1,
+    "speechiness": 0.0626,
+    "acousticness": 0.535,
+    "instrumentalness": 5.6e-06,
+    "liveness": 0.101,
+    "valence": 0.444,
+    "tempo": 189.883,
+    "type": "audio_features",
+    "id": "5ptxcmrUfNuLQezXE1Polu",
+    "uri": "spotify:track:5ptxcmrUfNuLQezXE1Polu",
+    "track_href": "https://api.spotify.com/v1/tracks/5ptxcmrUfNuLQezXE1Polu",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/5ptxcmrUfNuLQezXE1Polu",
+    "duration_ms": 215173,
+    "time_signature": 3
+}

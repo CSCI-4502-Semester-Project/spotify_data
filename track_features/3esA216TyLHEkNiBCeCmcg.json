@@ -1,0 +1,20 @@
+{
+    "danceability": 0.666,
+    "energy": 0.434,
+    "key": 1,
+    "loudness": -8.543,
+    "mode": 1,
+    "speechiness": 0.0289,
+    "acousticness": 0.647,
+    "instrumentalness": 1.95e-06,
+    "liveness": 0.124,
+    "valence": 0.396,
+    "tempo": 126.084,
+    "type": "audio_features",
+    "id": "3esA216TyLHEkNiBCeCmcg",
+    "uri": "spotify:track:3esA216TyLHEkNiBCeCmcg",
+    "track_href": "https://api.spotify.com/v1/tracks/3esA216TyLHEkNiBCeCmcg",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/3esA216TyLHEkNiBCeCmcg",
+    "duration_ms": 245333,
+    "time_signature": 4
+}

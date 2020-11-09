@@ -1,0 +1,20 @@
+{
+    "danceability": 0.577,
+    "energy": 0.222,
+    "key": 7,
+    "loudness": -10.568,
+    "mode": 1,
+    "speechiness": 0.0291,
+    "acousticness": 0.962,
+    "instrumentalness": 3.1e-05,
+    "liveness": 0.359,
+    "valence": 0.166,
+    "tempo": 136.048,
+    "type": "audio_features",
+    "id": "2Nh201cURlNgpcMDnDlNaL",
+    "uri": "spotify:track:2Nh201cURlNgpcMDnDlNaL",
+    "track_href": "https://api.spotify.com/v1/tracks/2Nh201cURlNgpcMDnDlNaL",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Nh201cURlNgpcMDnDlNaL",
+    "duration_ms": 198373,
+    "time_signature": 3
+}

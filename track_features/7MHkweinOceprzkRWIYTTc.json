@@ -1,0 +1,20 @@
+{
+    "danceability": 0.157,
+    "energy": 0.987,
+    "key": 9,
+    "loudness": -3.739,
+    "mode": 1,
+    "speechiness": 0.091,
+    "acousticness": 9.25e-06,
+    "instrumentalness": 0.0628,
+    "liveness": 0.151,
+    "valence": 0.462,
+    "tempo": 167.949,
+    "type": "audio_features",
+    "id": "7MHkweinOceprzkRWIYTTc",
+    "uri": "spotify:track:7MHkweinOceprzkRWIYTTc",
+    "track_href": "https://api.spotify.com/v1/tracks/7MHkweinOceprzkRWIYTTc",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/7MHkweinOceprzkRWIYTTc",
+    "duration_ms": 429199,
+    "time_signature": 4
+}

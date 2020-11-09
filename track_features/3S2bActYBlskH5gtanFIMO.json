@@ -1,0 +1,20 @@
+{
+    "danceability": 0.359,
+    "energy": 0.819,
+    "key": 9,
+    "loudness": -5.731,
+    "mode": 1,
+    "speechiness": 0.0292,
+    "acousticness": 0.000521,
+    "instrumentalness": 0.000115,
+    "liveness": 0.167,
+    "valence": 0.545,
+    "tempo": 151.996,
+    "type": "audio_features",
+    "id": "3S2bActYBlskH5gtanFIMO",
+    "uri": "spotify:track:3S2bActYBlskH5gtanFIMO",
+    "track_href": "https://api.spotify.com/v1/tracks/3S2bActYBlskH5gtanFIMO",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/3S2bActYBlskH5gtanFIMO",
+    "duration_ms": 409413,
+    "time_signature": 4
+}

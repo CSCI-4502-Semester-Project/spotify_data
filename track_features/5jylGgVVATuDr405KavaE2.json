@@ -1,0 +1,20 @@
+{
+    "danceability": 0.637,
+    "energy": 0.048,
+    "key": 5,
+    "loudness": -24.768,
+    "mode": 1,
+    "speechiness": 0.0538,
+    "acousticness": 0.91,
+    "instrumentalness": 0.964,
+    "liveness": 0.115,
+    "valence": 0.306,
+    "tempo": 94.77,
+    "type": "audio_features",
+    "id": "5jylGgVVATuDr405KavaE2",
+    "uri": "spotify:track:5jylGgVVATuDr405KavaE2",
+    "track_href": "https://api.spotify.com/v1/tracks/5jylGgVVATuDr405KavaE2",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/5jylGgVVATuDr405KavaE2",
+    "duration_ms": 123468,
+    "time_signature": 4
+}

@@ -1,0 +1,20 @@
+{
+    "danceability": 0.417,
+    "energy": 0.686,
+    "key": 7,
+    "loudness": -6.484,
+    "mode": 1,
+    "speechiness": 0.0373,
+    "acousticness": 0.0955,
+    "instrumentalness": 0.0287,
+    "liveness": 0.0989,
+    "valence": 0.625,
+    "tempo": 204.113,
+    "type": "audio_features",
+    "id": "6YDf6QV7QfCEo8O2dbWalK",
+    "uri": "spotify:track:6YDf6QV7QfCEo8O2dbWalK",
+    "track_href": "https://api.spotify.com/v1/tracks/6YDf6QV7QfCEo8O2dbWalK",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/6YDf6QV7QfCEo8O2dbWalK",
+    "duration_ms": 189293,
+    "time_signature": 4
+}

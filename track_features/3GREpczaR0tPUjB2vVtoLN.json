@@ -1,0 +1,20 @@
+{
+    "danceability": 0.312,
+    "energy": 0.0392,
+    "key": 2,
+    "loudness": -25.138,
+    "mode": 1,
+    "speechiness": 0.049,
+    "acousticness": 0.959,
+    "instrumentalness": 0.0406,
+    "liveness": 0.087,
+    "valence": 0.271,
+    "tempo": 100.748,
+    "type": "audio_features",
+    "id": "3GREpczaR0tPUjB2vVtoLN",
+    "uri": "spotify:track:3GREpczaR0tPUjB2vVtoLN",
+    "track_href": "https://api.spotify.com/v1/tracks/3GREpczaR0tPUjB2vVtoLN",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/3GREpczaR0tPUjB2vVtoLN",
+    "duration_ms": 557000,
+    "time_signature": 4
+}

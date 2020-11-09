@@ -1,0 +1,20 @@
+{
+    "danceability": 0.592,
+    "energy": 0.646,
+    "key": 10,
+    "loudness": -5.864,
+    "mode": 0,
+    "speechiness": 0.0452,
+    "acousticness": 0.859,
+    "instrumentalness": 5.25e-06,
+    "liveness": 0.358,
+    "valence": 0.606,
+    "tempo": 74.788,
+    "type": "audio_features",
+    "id": "16FisHkup3L75wW1CvFzec",
+    "uri": "spotify:track:16FisHkup3L75wW1CvFzec",
+    "track_href": "https://api.spotify.com/v1/tracks/16FisHkup3L75wW1CvFzec",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/16FisHkup3L75wW1CvFzec",
+    "duration_ms": 170787,
+    "time_signature": 4
+}

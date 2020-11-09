@@ -1,0 +1,20 @@
+{
+    "danceability": 0.713,
+    "energy": 0.451,
+    "key": 1,
+    "loudness": -9.64,
+    "mode": 1,
+    "speechiness": 0.0294,
+    "acousticness": 0.844,
+    "instrumentalness": 0.00317,
+    "liveness": 0.105,
+    "valence": 0.238,
+    "tempo": 102.972,
+    "type": "audio_features",
+    "id": "1tweNeMlwxfeoOXklVibnf",
+    "uri": "spotify:track:1tweNeMlwxfeoOXklVibnf",
+    "track_href": "https://api.spotify.com/v1/tracks/1tweNeMlwxfeoOXklVibnf",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/1tweNeMlwxfeoOXklVibnf",
+    "duration_ms": 218883,
+    "time_signature": 4
+}

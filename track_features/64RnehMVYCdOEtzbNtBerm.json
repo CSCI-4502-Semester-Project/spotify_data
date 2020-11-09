@@ -1,0 +1,20 @@
+{
+    "danceability": 0.511,
+    "energy": 0.0112,
+    "key": 4,
+    "loudness": -25.648,
+    "mode": 1,
+    "speechiness": 0.0964,
+    "acousticness": 0.996,
+    "instrumentalness": 0.899,
+    "liveness": 0.106,
+    "valence": 0.0323,
+    "tempo": 172.928,
+    "type": "audio_features",
+    "id": "64RnehMVYCdOEtzbNtBerm",
+    "uri": "spotify:track:64RnehMVYCdOEtzbNtBerm",
+    "track_href": "https://api.spotify.com/v1/tracks/64RnehMVYCdOEtzbNtBerm",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/64RnehMVYCdOEtzbNtBerm",
+    "duration_ms": 78560,
+    "time_signature": 4
+}

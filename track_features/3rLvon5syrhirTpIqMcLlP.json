@@ -1,0 +1,20 @@
+{
+    "danceability": 0.686,
+    "energy": 0.252,
+    "key": 0,
+    "loudness": -19.712,
+    "mode": 1,
+    "speechiness": 0.655,
+    "acousticness": 0.94,
+    "instrumentalness": 0,
+    "liveness": 0.195,
+    "valence": 0.579,
+    "tempo": 117.131,
+    "type": "audio_features",
+    "id": "3rLvon5syrhirTpIqMcLlP",
+    "uri": "spotify:track:3rLvon5syrhirTpIqMcLlP",
+    "track_href": "https://api.spotify.com/v1/tracks/3rLvon5syrhirTpIqMcLlP",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/3rLvon5syrhirTpIqMcLlP",
+    "duration_ms": 72733,
+    "time_signature": 5
+}

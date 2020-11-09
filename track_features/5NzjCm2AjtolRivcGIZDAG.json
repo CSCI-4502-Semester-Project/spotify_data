@@ -1,0 +1,20 @@
+{
+    "danceability": 0.415,
+    "energy": 0.034,
+    "key": 3,
+    "loudness": -30.589,
+    "mode": 1,
+    "speechiness": 0.149,
+    "acousticness": 0.826,
+    "instrumentalness": 4.37e-06,
+    "liveness": 0.0848,
+    "valence": 0.128,
+    "tempo": 132.675,
+    "type": "audio_features",
+    "id": "5NzjCm2AjtolRivcGIZDAG",
+    "uri": "spotify:track:5NzjCm2AjtolRivcGIZDAG",
+    "track_href": "https://api.spotify.com/v1/tracks/5NzjCm2AjtolRivcGIZDAG",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/5NzjCm2AjtolRivcGIZDAG",
+    "duration_ms": 222533,
+    "time_signature": 3
+}

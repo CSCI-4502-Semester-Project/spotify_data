@@ -1,0 +1,20 @@
+{
+    "danceability": 0.554,
+    "energy": 0.561,
+    "key": 2,
+    "loudness": -6.683,
+    "mode": 1,
+    "speechiness": 0.243,
+    "acousticness": 0.221,
+    "instrumentalness": 0,
+    "liveness": 0.117,
+    "valence": 0.134,
+    "tempo": 80.125,
+    "type": "audio_features",
+    "id": "34JhrCXAX7JXmc3gjVaspA",
+    "uri": "spotify:track:34JhrCXAX7JXmc3gjVaspA",
+    "track_href": "https://api.spotify.com/v1/tracks/34JhrCXAX7JXmc3gjVaspA",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/34JhrCXAX7JXmc3gjVaspA",
+    "duration_ms": 208448,
+    "time_signature": 4
+}

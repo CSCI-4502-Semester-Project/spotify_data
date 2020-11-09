@@ -1,0 +1,20 @@
+{
+    "danceability": 0.38,
+    "energy": 0.926,
+    "key": 9,
+    "loudness": -7.49,
+    "mode": 1,
+    "speechiness": 0.0715,
+    "acousticness": 0.000338,
+    "instrumentalness": 0.136,
+    "liveness": 0.638,
+    "valence": 0.148,
+    "tempo": 123.285,
+    "type": "audio_features",
+    "id": "5SZQ45ZPS89NEBrfromaCq",
+    "uri": "spotify:track:5SZQ45ZPS89NEBrfromaCq",
+    "track_href": "https://api.spotify.com/v1/tracks/5SZQ45ZPS89NEBrfromaCq",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/5SZQ45ZPS89NEBrfromaCq",
+    "duration_ms": 341267,
+    "time_signature": 4
+}

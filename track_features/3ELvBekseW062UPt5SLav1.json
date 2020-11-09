@@ -1,0 +1,20 @@
+{
+    "danceability": 0.602,
+    "energy": 0.865,
+    "key": 8,
+    "loudness": -4.881,
+    "mode": 0,
+    "speechiness": 0.136,
+    "acousticness": 0.0551,
+    "instrumentalness": 0,
+    "liveness": 0.181,
+    "valence": 0.464,
+    "tempo": 149.901,
+    "type": "audio_features",
+    "id": "3ELvBekseW062UPt5SLav1",
+    "uri": "spotify:track:3ELvBekseW062UPt5SLav1",
+    "track_href": "https://api.spotify.com/v1/tracks/3ELvBekseW062UPt5SLav1",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/3ELvBekseW062UPt5SLav1",
+    "duration_ms": 235150,
+    "time_signature": 4
+}

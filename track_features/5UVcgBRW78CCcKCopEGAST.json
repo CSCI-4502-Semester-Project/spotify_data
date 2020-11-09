@@ -1,0 +1,20 @@
+{
+    "danceability": 0.811,
+    "energy": 0.531,
+    "key": 2,
+    "loudness": -8.537,
+    "mode": 0,
+    "speechiness": 0.0355,
+    "acousticness": 0.00657,
+    "instrumentalness": 0.0285,
+    "liveness": 0.0801,
+    "valence": 0.752,
+    "tempo": 107.853,
+    "type": "audio_features",
+    "id": "5UVcgBRW78CCcKCopEGAST",
+    "uri": "spotify:track:5UVcgBRW78CCcKCopEGAST",
+    "track_href": "https://api.spotify.com/v1/tracks/5UVcgBRW78CCcKCopEGAST",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/5UVcgBRW78CCcKCopEGAST",
+    "duration_ms": 307000,
+    "time_signature": 4
+}

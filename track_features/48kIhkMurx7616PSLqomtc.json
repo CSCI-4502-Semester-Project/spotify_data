@@ -1,0 +1,20 @@
+{
+    "danceability": 0.121,
+    "energy": 0.0641,
+    "key": 1,
+    "loudness": -25.792,
+    "mode": 1,
+    "speechiness": 0.0399,
+    "acousticness": 0.931,
+    "instrumentalness": 0.796,
+    "liveness": 0.235,
+    "valence": 0.0391,
+    "tempo": 68.648,
+    "type": "audio_features",
+    "id": "48kIhkMurx7616PSLqomtc",
+    "uri": "spotify:track:48kIhkMurx7616PSLqomtc",
+    "track_href": "https://api.spotify.com/v1/tracks/48kIhkMurx7616PSLqomtc",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/48kIhkMurx7616PSLqomtc",
+    "duration_ms": 319000,
+    "time_signature": 4
+}

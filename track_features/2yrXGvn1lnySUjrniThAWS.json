@@ -1,0 +1,20 @@
+{
+    "danceability": 0.727,
+    "energy": 0.629,
+    "key": 5,
+    "loudness": -9.865,
+    "mode": 0,
+    "speechiness": 0.0402,
+    "acousticness": 0.141,
+    "instrumentalness": 0.891,
+    "liveness": 0.0466,
+    "valence": 0.547,
+    "tempo": 104.982,
+    "type": "audio_features",
+    "id": "2yrXGvn1lnySUjrniThAWS",
+    "uri": "spotify:track:2yrXGvn1lnySUjrniThAWS",
+    "track_href": "https://api.spotify.com/v1/tracks/2yrXGvn1lnySUjrniThAWS",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/2yrXGvn1lnySUjrniThAWS",
+    "duration_ms": 285507,
+    "time_signature": 4
+}

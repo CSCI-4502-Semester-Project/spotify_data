@@ -1,0 +1,20 @@
+{
+    "danceability": 0.36,
+    "energy": 0.464,
+    "key": 7,
+    "loudness": -11.651,
+    "mode": 0,
+    "speechiness": 0.032,
+    "acousticness": 0.891,
+    "instrumentalness": 0.066,
+    "liveness": 0.363,
+    "valence": 0.49,
+    "tempo": 151.023,
+    "type": "audio_features",
+    "id": "07BUBegoXmSQcokCOMAWwt",
+    "uri": "spotify:track:07BUBegoXmSQcokCOMAWwt",
+    "track_href": "https://api.spotify.com/v1/tracks/07BUBegoXmSQcokCOMAWwt",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/07BUBegoXmSQcokCOMAWwt",
+    "duration_ms": 385867,
+    "time_signature": 4
+}

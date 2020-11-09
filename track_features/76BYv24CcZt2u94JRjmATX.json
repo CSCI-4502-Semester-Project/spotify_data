@@ -1,0 +1,20 @@
+{
+    "danceability": 0.329,
+    "energy": 0.885,
+    "key": 9,
+    "loudness": -10.661,
+    "mode": 1,
+    "speechiness": 0.0904,
+    "acousticness": 0.0242,
+    "instrumentalness": 0.00433,
+    "liveness": 0.735,
+    "valence": 0.481,
+    "tempo": 163.538,
+    "type": "audio_features",
+    "id": "76BYv24CcZt2u94JRjmATX",
+    "uri": "spotify:track:76BYv24CcZt2u94JRjmATX",
+    "track_href": "https://api.spotify.com/v1/tracks/76BYv24CcZt2u94JRjmATX",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/76BYv24CcZt2u94JRjmATX",
+    "duration_ms": 259760,
+    "time_signature": 4
+}

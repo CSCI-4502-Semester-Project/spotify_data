@@ -1,0 +1,20 @@
+{
+    "danceability": 0.111,
+    "energy": 0.281,
+    "key": 2,
+    "loudness": -13.625,
+    "mode": 0,
+    "speechiness": 0.038,
+    "acousticness": 0.704,
+    "instrumentalness": 0.87,
+    "liveness": 0.115,
+    "valence": 0.0379,
+    "tempo": 82.136,
+    "type": "audio_features",
+    "id": "2MG1XEnVM6rq63IDiOrdIN",
+    "uri": "spotify:track:2MG1XEnVM6rq63IDiOrdIN",
+    "track_href": "https://api.spotify.com/v1/tracks/2MG1XEnVM6rq63IDiOrdIN",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/2MG1XEnVM6rq63IDiOrdIN",
+    "duration_ms": 238000,
+    "time_signature": 5
+}

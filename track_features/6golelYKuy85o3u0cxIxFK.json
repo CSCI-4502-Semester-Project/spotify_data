@@ -1,0 +1,20 @@
+{
+    "danceability": 0.547,
+    "energy": 0.635,
+    "key": 2,
+    "loudness": -5.569,
+    "mode": 1,
+    "speechiness": 0.137,
+    "acousticness": 0.0127,
+    "instrumentalness": 5.01e-06,
+    "liveness": 0.0585,
+    "valence": 0.525,
+    "tempo": 113.678,
+    "type": "audio_features",
+    "id": "6golelYKuy85o3u0cxIxFK",
+    "uri": "spotify:track:6golelYKuy85o3u0cxIxFK",
+    "track_href": "https://api.spotify.com/v1/tracks/6golelYKuy85o3u0cxIxFK",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/6golelYKuy85o3u0cxIxFK",
+    "duration_ms": 245293,
+    "time_signature": 4
+}

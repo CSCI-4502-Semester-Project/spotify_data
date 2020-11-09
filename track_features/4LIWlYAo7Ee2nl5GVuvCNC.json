@@ -1,0 +1,20 @@
+{
+    "danceability": 0.661,
+    "energy": 0.81,
+    "key": 6,
+    "loudness": -9.183,
+    "mode": 0,
+    "speechiness": 0.0394,
+    "acousticness": 0.169,
+    "instrumentalness": 0.762,
+    "liveness": 0.0627,
+    "valence": 0.325,
+    "tempo": 123.006,
+    "type": "audio_features",
+    "id": "4LIWlYAo7Ee2nl5GVuvCNC",
+    "uri": "spotify:track:4LIWlYAo7Ee2nl5GVuvCNC",
+    "track_href": "https://api.spotify.com/v1/tracks/4LIWlYAo7Ee2nl5GVuvCNC",
+    "analysis_url": "https://api.spotify.com/v1/audio-analysis/4LIWlYAo7Ee2nl5GVuvCNC",
+    "duration_ms": 288796,
+    "time_signature": 4
+}
