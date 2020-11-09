@@ -1,5 +1,6 @@
 import requests
 import json
+import time
 
 def track_indexes(track_out, authorizer, verbose):
     href = track_out['href']
@@ -17,6 +18,10 @@ def track_indexes(track_out, authorizer, verbose):
                 track_ids[index] = track['track']['id']
                 index += 1
             href = tracks['next']
+        elif response.status_code == 429:
+            limit = int(response.headers['Retry-After'])
+            print('Hit rate limit, waiting for {} seconds to continue'.format(limit))
+            time.sleep(limit)
         elif response.status_code == 404:
             if verbose:
                 print('Warning {}: Problem with getting tracks from playlists, verify url {} is correct.'.format(response.status_code, href))
@@ -46,6 +51,10 @@ def track_features(tracks, authorizer, verbose):
             features += response.json()['audio_features']
             offset += stride
             remainder -= stride
+        elif response.status_code == 429:
+            limit = int(response.headers['Retry-After'])
+            print('Hit rate limit, waiting for {} seconds to continue'.format(limit))
+            time.sleep(limit)
         else:
             print('Error %d' % response.status_code)
             if verbose:

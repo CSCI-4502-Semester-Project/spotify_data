@@ -1,5 +1,6 @@
 import requests
 import json
+import time
 
 def get_user_playlists(user_id, authorizer, verbose):
     spotify_endpoint = 'https://api.spotify.com/v1/users/{user_id}/playlists'
@@ -23,6 +24,10 @@ def get_user_playlists(user_id, authorizer, verbose):
                 return playlists
             else:
                 spotify_endpoint = data['next']
+        elif response.status_code == 429:
+            limit = int(response.headers['Retry-After'])
+            print('Hit rate limit, waiting for {} seconds to continue'.format(limit))
+            time.sleep(limit)
         elif response.status_code == 404:
             print('Error. User {user_id} not found.'.format(user_id=user_id))
             return None
