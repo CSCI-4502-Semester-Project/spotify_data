@@ -114,6 +114,14 @@
                 "--binary"
             ],
             "console": "integratedTerminal"
+        },
+        {
+            "name": "100 mil playlists integration",
+            "type": "python",
+            "request": "launch",
+            "program": "integration.py",
+            "args": [],
+            "console": "integratedTerminal"
         }
     ]
 }

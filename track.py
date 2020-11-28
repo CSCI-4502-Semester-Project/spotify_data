@@ -5,8 +5,8 @@ import time
 
 def track_indexes(track_out, authorizer, verbose):
     href = track_out['href']
-    # track_ids = [''] * track_out['total']
-    track_ids = []
+    track_ids = [''] * track_out['total']
+    #track_ids = []
 
     index = 0
 
@@ -17,12 +17,10 @@ def track_indexes(track_out, authorizer, verbose):
         if response.status_code == 200:
             tracks = response.json()
             for track in tracks['items']:
-                if track is None:
+                if track is None or track['track'] is None:
                     continue
-                if track['track'] is None:
-                    continue
-                ntrack = track['track']['id']
-                track_ids.append(ntrack)
+                track_ids[index] = track['track']['id']
+                #track_ids.append(ntrack)
                 index += 1
             href = tracks['next']
         elif response.status_code == 429:
