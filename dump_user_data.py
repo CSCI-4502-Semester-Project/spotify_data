@@ -117,7 +117,7 @@ def authorized_callback():
         
         # get all track id's
         for playlist in playlists['items']:
-            track_ids = track_indexes(playlist['tracks'], auth, args.verbose)
+            track_ids, album_ids = track_indexes(playlist['tracks'], auth, args.verbose)
 
             # make sure that we have tracks, also make sure that the playlist size conforms to the size constraint
             if track_ids is None or len(track_ids) < args.size:
@@ -159,7 +159,7 @@ def authorized_callback():
 
         # get all track id's
         for playlist in playlists['items']:
-            track_ids = track_indexes(playlist['tracks'], auth, args.verbose)
+            track_ids, album_ids = track_indexes(playlist['tracks'], auth, args.verbose)
             
             # make sure that we have tracks, also make sure that the playlist size conforms to the size constraint
             if track_ids is None or len(track_ids) < args.size:
@@ -178,7 +178,7 @@ def authorized_callback():
             out_file.close()
 
             # get track features
-            t_features = track_features(track_ids, auth, args.verbose)
+            t_features = track_features(track_ids, album_ids, auth, args.verbose)
 
             for track_id, features in t_features:
                 out_file = open('{}track_features/{}.{}'.format(dump_directory, track_id, 'pbjson' if args.binary else 'json'), 'wb+' if args.binary else 'w+')
